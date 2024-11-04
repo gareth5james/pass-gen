@@ -2,6 +2,10 @@
 
 Simple password generator with toggle options
 
+clone the repo if you want to modify to your own version
+
+hosted at [https://pass-genny.netlify.app/](https://pass-genny.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
